@@ -18,10 +18,15 @@ To install the program, download the git repo and run the Jupyter Notebook
 <br/>
 
 ### Voila Demo
-![plot](./voila-screen-shot-1.png?raw=true "Voila Screenshot")
-![plot](./voila-screen-shot-1-1.png?raw=true "Voila Screenshot")
-![plot](./voila-screen-shot-1-2.png?raw=true "Voila Screenshot")
-![plot](./voila-screen-shot-2.png?raw=true "Voila Screenshot")
+![](./etf_analyzer.gif?raw=true "Voila Screenshot")
+
+
+
+
+https://user-images.githubusercontent.com/17937188/139603738-405e63d2-d61c-428b-a5e0-f92e3ff16962.mp4
+
+
+
 
 
 ## Contributors 
