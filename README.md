@@ -17,6 +17,12 @@ To install the program, download the git repo and run the Jupyter Notebook
 
 <br/>
 
+### Voila Demo
+![plot](./voila-screen-shot-1.png?raw=true "Voila Screenshot")
+![plot](./voila-screen-shot-1-1.png?raw=true "Voila Screenshot")
+![plot](./voila-screen-shot-1-2.png?raw=true "Voila Screenshot")
+![plot](./voila-screen-shot-2.png?raw=true "Voila Screenshot")
+
 
 ## Contributors 
 <br/>
